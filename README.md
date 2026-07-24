@@ -1,9 +1,3 @@
-Repository name:** MERN-Stack-Web-Development
-
-My full-stack web development journey covering HTML, CSS, JavaScript, React.js, Node.js, Express.js, databases, APIs, authentication, and hands-on projects.
-
-Since you're following the uploaded Web Development Bootcamp, I've kept the README aligned with its progression: HTML/CSS → JavaScript/DOM → React → Node/Express/APIs → databases → authentication → deployment. 
-
 
 # 🌐 MERN Stack Web Development
 
