@@ -1,1 +1,14 @@
+# 1. Navigate to your local cloned repository
+cd path/to/your/repository
+
+# 2. Create the new directory
+mkdir new-folder-name
+
+# 3. Create a placeholder file inside (Git won't track it if empty)
+touch new-folder-name/.gitkeep
+
+# 4. Stage, commit, and push the changes to GitHub
+git add new-folder-name/
+git commit -m "Add new folder with placeholder"
+git push origin main
 
